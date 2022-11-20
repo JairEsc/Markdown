@@ -12,4 +12,4 @@ Además, Doble espacio es salto de linea. El enter no funciona.
       2. gs
   
 ## Podemos agregar links.  
-[nombre]{https://github.com/JairEsc/Mat_Apl_2/blob/main/ML_Neumonia.ipynb}
+[nombre](https://github.com/JairEsc/Mat_Apl_2/blob/main/ML_Neumonia.ipynb)
