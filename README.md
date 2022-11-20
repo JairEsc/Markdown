@@ -6,4 +6,10 @@ Además, Doble espacio es salto de linea. El enter no funciona.
   
   - list  
   - oooohhh
-  -   a
+    * aa
+    * bb
+      1. gg
+      2. gs
+  
+## Podemos agregar links.  
+[nombre]{https://github.com/JairEsc/Mat_Apl_2/blob/main/ML_Neumonia.ipynb}
