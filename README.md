@@ -16,4 +16,4 @@ Además, Doble espacio es salto de linea. El enter no funciona.
   
 👀 (Emojis con tecla windows+ tecla punto (.))  
   
-![Aqui puedes encontrar mi curp](fig/QR_curp.png)
+![Aqui puedes encontrar mi curp](fig/QR_curp.PNG)
