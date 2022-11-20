@@ -15,3 +15,5 @@ Además, Doble espacio es salto de linea. El enter no funciona.
 [nombre](https://github.com/JairEsc/Mat_Apl_2/blob/main/ML_Neumonia.ipynb)  
   
 👀 (Emojis con tecla windows+ tecla punto (.))  
+  
+![Aqui puedes encontrar mi curp](fig/QR_curp.png)
